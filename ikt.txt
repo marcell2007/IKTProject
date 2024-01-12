@@ -1,9 +1,9 @@
-Bell, 1876, telefon, Skócia/Kanada
-Ford, 1913, futószalag, USA
-Wright testvérek, 1903, repülőgép, USA
-Bessemer, 1856, acélgyártás, Egyesült Királyság
-Edison, 1879, izzólámpa, USA
-Morse, 1837, telegráf, USA
+Bell 1876 telefon Skócia/Kanada
+Ford 1913 futószalag USA
+Wright testvérek 1903 repülőgép USA
+Bessemer 1856 acélgyártás Egyesült Királyság
+Edison 1879 izzólámpa USA
+Morse 1837 telegráf USA
 Whitney, 1793, pamutfeldolgozó gép, USA
 Hargreaves, 1764, szpinning jenny, Egyesült Királyság
 Newcomen, 1712, gőzgép, Egyesült Királyság
