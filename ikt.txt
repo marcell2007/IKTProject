@@ -1,17 +1,17 @@
 Bell 1876 telefon Skócia/Kanada
 Ford 1913 futószalag USA
-Wright testvérek 1903 repülőgép USA
-Bessemer 1856 acélgyártás Egyesült Királyság
+Wright_testvérek 1903 repülőgép USA
+Bessemer 1856 acélgyártás Egyesült_Királyság
 Edison 1879 izzólámpa USA
 Morse 1837 telegráf USA
-Whitney 1793 pamutfeldolgozó gép USA
-Hargreaves 1764 spinning jenny Egyesült Királyság
-Newcomen 1712 gőzgép Egyesült Királyság
-Faraday 1821 elektromágneses indukció Egyesült Királyság
+Whitney 1793 pamutfeldolgozó_gép USA
+Hargreaves 1764 spinning_jenny Egyesült_Királyság
+Newcomen 1712 gőzgép Egyesült_Királyság
+Faraday 1821 elektromágneses_indukció Egyesült_Királyság
 Tesla 1884 váltóáram Szerbia/USA
 Gutenberg 1440 nyomda Németalföld
 Hollerith 1884 adatfeldolgozás USA
-Crompton 1779 szövőgép Egyesült Királyság
+Crompton 1779 szövőgép Egyesült_Királyság
 Fermi 1942 atomreaktor Olaszország/USA
-Salk 1955 polio elleni vakcina USA
-Marconi 1895 rádió Olaszország/Egyesült Királyság
+Salk 1955 polio_elleni_vakcina USA
+Marconi 1895 rádió Olaszország/Egyesült_Királyság
