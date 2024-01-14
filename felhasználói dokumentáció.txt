@@ -1,6 +1,6 @@
 A menürendszerben a felhasználó "A"-tól "D"-ig van lehetősége kiválasztani egy alfeladatokat. Mindegyik alfeladat másra képes. A felhasználónak "Választás:" mellé be kell vinni egy betűt a választások közül (a-d) majd a program feldobja azt az alfeladatot amit a felhasználó bekért.
 
-Ha az "A" alfeladatot választja a felhasználó, akkor a képernyőre felsorolja az összes elemet amit a fáljban található
+Ha az "A" alfeladatot választja a felhasználó, akkor a képernyőre felsorolja az összes elemet amit a fáljban található.
 
 Ha a "B" alfeladatot választja a felhasználó, akkor minden adat listázása egy fáljba menti amit a felhasználó el is nevezhet.
 
