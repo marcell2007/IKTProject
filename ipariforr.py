@@ -49,5 +49,11 @@ elif menu.lower() == "d":
         random.shuffle(valaszok)
         print(valaszok)
         valasz = input("Válasz: ")
+        if valasz == jo:
+            print("helyes!")
+        else:
+            print("Helytelen! A helyes válasz", jo)
+    if kerdes.lower == "vége!":
+        print("Köszönjük hogy kipróbáltad!")
 
     
