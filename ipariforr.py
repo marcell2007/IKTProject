@@ -31,23 +31,23 @@ elif menu.lower() == "d":
     osszes = []
     for sor in adat:
         hami = sor.split(",")
-        osszes.append(hami)
-    print(f"Melyik vívmány tartozik ehhez az évszámhoz, {evszam}?\n (A teszt befejezéséhez írja, hogy 'Vége')") 
-    jo = random.choice(helyes)
-    rossz1 = random.choice(osszes)
-    rossz2 = random.choice(osszes)
-    valaszok = [jo, rossz1, rossz2]
-    random.shuffle(valaszok)
-    print(valaszok)
-    valasz = input("Válasz: ")
-    while kerdes.lower != "vége":
-        print(f"Melyik vívmány tartozik ehhez az évszámhoz, {evszam}?\n (A teszt befejezéséhez írja, hogy 'Vége')") 
+        for nyami in hami:
+            osszes.append(nyami)
+    folyt = ''
+    while folyt.lower() != "nem":
+        print(f"Melyik vívmány tartozik ehhez az évszámhoz, {evszam}?\n") 
         jo = random.choice(helyes)
         rossz1 = random.choice(osszes)
         rossz2 = random.choice(osszes)
         valaszok = [jo, rossz1, rossz2]
         random.shuffle(valaszok)
         print(valaszok)
-        valasz = input("Válasz: ")
+        valasz = input("\nVálasz: ")
+        if valasz == jo:
+            print("Helyes válasz!")
+        else:
+            print("Helytelen válasz!")
+        folyt = input("Folytatja?: ")
+        print('')
 
     
