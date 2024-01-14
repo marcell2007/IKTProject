@@ -4,6 +4,6 @@ Ha az "A" alfeladatot választja a felhasználó, akkor a képernyőre felsorolj
 
 Ha a "B" alfeladatot választja a felhasználó, akkor minden adat listázása egy fáljba menti amit a felhasználó el is nevezhet.
 
-Ha a "C" alfeladatot választja a felhasználó, akkor a felhasználó meg tud adni két évszámot mettől meddig és a két évszám közti (az a két év is beleartozik) össszes adatot.
+Ha a "C" alfeladatot választja a felhasználó, akkor a felhasználó meg tud adni két évszámot mettől meddig és a két évszám közti (az a két év is beleartozik) össszes adatot majd minden olyan adatot kiír ami abba az időtartományba esik.
 
 Ha a "D" alfeladatot választja a felhasználó, akkor egy tudás feladatot dob fel a felhasználónak, ahol a program egy évszámot megkérdez hogy melyik találmányhoz kötődik a bizonyos évszám (fáljban szereplő adatokból kérdez) majd három lehetőség közül el kell találnia a helyeset.
