@@ -25,9 +25,6 @@ elif menu.lower() == "c":
         if adott1 <= int(ev) and int(ev) <= adott2:
             print(" ".join(sor))
 elif menu.lower() == "d":
-    melyik = random.choice(adat)
-    helyes = melyik.split(",")
-    evszam = helyes[1]
     osszes = []
     for sor in adat:
         hami = sor.split(",")
@@ -35,6 +32,9 @@ elif menu.lower() == "d":
             osszes.append(nyami)
     folyt = ''
     while folyt.lower() != "nem":
+        melyik = random.choice(adat)
+        helyes = melyik.split(",")
+        evszam = helyes[1]
         print(f"Melyik vívmány tartozik ehhez az évszámhoz, {evszam}?\n") 
         jo = random.choice(helyes)
         rossz1 = random.choice(osszes)
