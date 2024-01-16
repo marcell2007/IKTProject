@@ -14,4 +14,3 @@ Hollerith,1884,adatfeldolgozás,USA
 Crompton,1779,szövőgép,Egyesült Királyság
 Fermi,1942,atomreaktor,Olaszország/USA
 Salk,1955,polio elleni vakcina,USA
-Marconi,1895,rádió,Olaszország/Egyesült Királyság
